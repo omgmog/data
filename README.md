@@ -1,0 +1,1 @@
+Utility repository to expose `site.github` hash from the `github-metadata` jekyll plugin.
